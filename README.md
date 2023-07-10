@@ -4,4 +4,4 @@ Responsive film sitesi projesi. Dark & Light Mod.
 
 <h1>Ekran</h1>
 
-![filmsitesi.gif]
+![](filmsitesi.gif)
